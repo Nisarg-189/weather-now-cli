@@ -13,13 +13,14 @@ A simple and clean Python CLI tool that fetches the **current weather** using th
 ---
 
 ## 📁 Project Structure
+
 weather-now-cli/
 │
 ├── weather/
 │ ├── init.py
 │ ├── api.py
-│ └── main.py
 │
+├── main.py
 ├── requirements.txt
 └── README.md
 
