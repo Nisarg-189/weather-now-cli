@@ -17,7 +17,7 @@ def main():
         print("Temperature: ", weather["temperature"], "°C")
         print("Wind Speed: ", weather["windspeed"], "km/h")
         print("Wind Direction: ", weather["winddirection"], "°")
-        print("Time: ", weather["time"])
+        print("Time: ", weather["time"] )
 
 
 if __name__ == "__main__":
